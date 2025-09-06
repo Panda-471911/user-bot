@@ -1,0 +1,75 @@
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+wheels/
+share/python-wheels/
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ------------------------
+# Environment / virtualenv
+# ------------------------
+.env
+*.env
+.env.*
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ------------------------
+# IDE / Editor configs
+# ------------------------
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ------------------------
+# OS-specific files
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------
+# Logs / temp files
+# ------------------------
+*.log
+*.tmp
+*.temp
+.env
+*.session*
+__pycache__/
+*.pyc
+*.log
+state.json
+logs/
